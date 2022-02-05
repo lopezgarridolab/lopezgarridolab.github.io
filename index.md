@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+Welcome to our webpage! We are a research group currently at the Max Planck Institute for Evolutionary Biology in Plön. The group works mainly using genetics, biochemistry and imaging techniques to study, among other things, the sporulation and physiology in _Bacillus subtilis_.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+To know more about what we do and how we do it, please take a look at the Research tab. If you wish to join our group, check out for available options at the Opportunities tab.
