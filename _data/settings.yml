@@ -1,12 +1,12 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'People', url: '/people'}
+- {name: 'Publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Contact', url: '/contact'}
 
 people:
-- {name: 'Javier López Garrido', title: 'Principal Investigator', role: 'The Bacillus grandmaster', research: 'Evolutionary Cell Biology of Bacillus Subtilis', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/primary-investigator.jpg', url: 'javi'}
+- {name: 'Javier López Garrido', title: 'Principal Investigator', role: 'The __Bacillus__ grandmaster', research: 'Evolutionary Cell Biology of Bacillus Subtilis', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/primary-investigator.jpg', url: 'javi'}
 - {name: 'Alan Derman', title: 'Senior Scientist', role: 'The know-it-all', email: 'derman@evolbio.mpg.de', research: '', image: 'assets/img/lab-technician.jpg', url: 'alan'}
 - {name: 'Nadja Hüttman', title: 'Lab Technician', role: 'The problem solver', email: 'huettman@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'nadja'}
 - {name: 'Deniz Akbulut', title: 'Master´s Student', role: '', email: 'akbulut@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'deniz'}
