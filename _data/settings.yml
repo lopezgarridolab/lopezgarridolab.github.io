@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Javier López Garrido', title: 'Principal Investigator', role: 'The __Bacillus__ grandmaster', research: 'Evolutionary Cell Biology of Bacillus Subtilis', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/primary-investigator.jpg', url: 'javi'}
+- {name: 'Javier López Garrido', title: 'Principal Investigator', role: 'The Bacillus grandmaster', research: 'Evolutionary Cell Biology of Bacillus Subtilis', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/primary-investigator.jpg', url: 'javi'}
 - {name: 'Alan Derman', title: 'Senior Scientist', role: 'The know-it-all', email: 'derman@evolbio.mpg.de', research: '', image: 'assets/img/lab-technician.jpg', url: 'alan'}
 - {name: 'Nadja Hüttman', title: 'Lab Technician', role: 'The problem solver', email: 'huettman@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'nadja'}
 - {name: 'Deniz Akbulut', title: 'Master´s Student', role: '', email: 'akbulut@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'deniz'}
@@ -27,4 +27,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Javier López Garrido', institution: 'Max Planck Institute for Evolutionary Biology', institution_address: 'August Thienemann Strasse 2, Plön, Germany', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/contact.jpg'}
