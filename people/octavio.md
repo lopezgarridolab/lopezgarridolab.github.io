@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "Octavio Reyes Matte"
+title: "Octavio Reyes Matte - Intern"
 ---
 
-## Intern
+The
 
-### The 
-
-Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
+Biophysics of growth and competition 
 
 Email: reyesmatte@evolbio.mpg.de
 

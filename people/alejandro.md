@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Alejandro Bonive Boscan"
+title: "Alejandro Bonive Boscan - Intern"
 ---
 
-## Intern
-
-### The 
+The 
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 

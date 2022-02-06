@@ -1,11 +1,8 @@
 ---
 layout: page
-title: "Deniz Akbulut"
+title: "Deniz Akbulut - Master´s student"
 ---
-
-## Master´s student
-
-### The 
+ 
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 

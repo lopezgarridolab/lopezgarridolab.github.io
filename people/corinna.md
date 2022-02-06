@@ -1,15 +1,13 @@
 ---
 layout: page
-title: "Iqra Kasu"
+title: "Corinna Schwarz - PhD Student"
 ---
 
-## PhD Student
-
-### The 
+The 
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 
-Email: kasu.mpg.de
+Email: schwarz@evolbio.mpg.de
 
 ---
 

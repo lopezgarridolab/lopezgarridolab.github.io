@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Alan Derman"
+title: "Alan Derman - Senior scientist"
 ---
 
-## Senior scientist
-
-### The know it all
+The know it all
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 

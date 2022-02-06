@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Iqra Kasu"
+title: "Iqra Kasu - PhD Student"
 ---
 
-## PhD Student
-
-### The 
+The 
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 

@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Nadja Hüttman"
+title: "Nadja Hüttman - Technician"
 ---
 
-## Technician
-
-### The problem solver
+The problem solver
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 
