@@ -21,4 +21,4 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/LopezGarridoLab'}
 
 contacts:
-- {name: 'Javier López Garrido', position: 'Max Planck Research Group Leader', group: 'Research Group Evolutionary Cell Biology', institution: 'Max Planck Institute for Evolutionary Biology', institution_address: 'August Thienemann Strasse 2, Plön, Germany', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/mpi-evolbio.png'}
+- {name: 'Javier López Garrido', position: 'Max Planck Research Group Leader', group: 'Research Group Evolutionary Cell Biology', institution: 'Max Planck Institute for Evolutionary Biology', institution_address: 'August Thienemann Strasse 2, Plön, Germany', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/mpi-plon.jpg'}
