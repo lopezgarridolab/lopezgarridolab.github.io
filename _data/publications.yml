@@ -1,10 +1,10 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Khanna et al. Asymmetric localization of the cell division machinery during Bacillus subtilis sporulation', url: 'https://elifesciences.org/articles/62204.pdf'}
+- {name: 'Riley et al. Metabolic differentiation and intercellular nurturing underpin bacterial endospore formation', url: 'https://www.science.org/doi/pdf/10.1126/sciadv.abd6385'}
+- {name: 'Riley et al. Milestones in Bacillus subtilis sporulation research', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7780723/'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'Khanna, K., Lopez-Garrido, J., Sugie, J., Pogliano, K., & Villa, E. (2021). Asymmetric localization of the cell division machinery during Bacillus subtilis sporulation. Elife, 10, e62204.', url: 'https://elifesciences.org/articles/62204.pdf'}
+- {name: 'Riley, E. P., Lopez-Garrido, J., Sugie, J., Liu, R. B., & Pogliano, K. (2021). Metabolic differentiation and intercellular nurturing underpin bacterial endospore formation. Science Advances, 7(4), eabd6385.', url: 'https://www.science.org/doi/pdf/10.1126/sciadv.abd6385'}
+- {name: 'Riley, E. P., Schwarz, C., Derman, A. I., & Lopez-Garrido, J. (2021). Milestones in Bacillus subtilis sporulation research. Microbial Cell, 8(1), 1.', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7780723/'}
+- {name: 'Khanna, K., Lopez-Garrido, J., & Pogliano, K. (2020). Shaping an endospore: architectural transformations during Bacillus subtilis sporulation. Annual review of microbiology, 74, 361-386.', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610358/'}
