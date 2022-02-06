@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Javier López Garrido"
+title: "Javier López Garrido - Principal Investigator"
 ---
 
-## Principal Investigator
-
-### The _Bacillus_ grandmaster
+The _Bacillus_ grandmaster
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 
