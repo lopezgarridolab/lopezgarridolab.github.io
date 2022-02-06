@@ -3,7 +3,7 @@ menu:
 - {name: 'People', url: '/people'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'Opportunities', url: '/opportunities'}
 - {name: 'Contact', url: '/contact'}
 
 people:
