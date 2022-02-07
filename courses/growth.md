@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vector Calculus"
+title: "Growth"
 ---
 
 #### Course Information
