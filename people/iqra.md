@@ -11,4 +11,4 @@ Email: kasu@evolbio.mpg.de
 
 ---
 
-Iqra brings her background and skills in microbiology to explore the biosynthetic activities and metabolic processes that are important for the process of spore revival.
+Iqra brings her skills in microbiology to explore the biosynthetic activities and metabolic processes that are important for the process of spore revival.
