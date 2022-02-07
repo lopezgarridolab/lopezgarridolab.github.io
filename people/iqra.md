@@ -11,4 +11,4 @@ Email: kasu@evolbio.mpg.de
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+Iqra brings her background and skills in microbiology to explore the biosynthetic activities and metabolic processes that are important for the process of spore revival.
