@@ -7,7 +7,7 @@ The
 
 Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
 
-Email: schwarz@evolbio.mpg.de
+Email: coschwarz@evolbio.mpg.de
 
 ---
 
