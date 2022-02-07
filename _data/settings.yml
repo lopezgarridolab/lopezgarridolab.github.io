@@ -17,9 +17,9 @@ people:
 
 
 courses:
-- {name: 'Metabolism', url: 'vector-calculus'}
-- {name: 'Sporulation', url: 'quantum-mechanics'}
-- {name: 'Growth', url: 'stellar-structures'}
+- {name: 'Metabolism', url: 'metabolism'}
+- {name: 'Sporulation', url: 'sporulation'}
+- {name: 'Growth', url: 'growth'}
 
 
 social:
