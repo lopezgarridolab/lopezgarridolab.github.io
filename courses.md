@@ -1,8 +1,10 @@
 ---
-layout: courses
-title: "Courses"
+layout: research
+title: "Research"
 ---
 
-## AAAAAA
+### Main research line
 
-AAAAAAA
+Sporulation of _Bacillus subtilis_
+
+Besides this, tx research sub-lines are developed in the lab
