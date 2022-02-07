@@ -7,4 +7,4 @@ title: "Research"
 
 Sporulation of _Bacillus subtilis_
 
-Besides this, tx research sub-lines are developed in the lab
+Plus, the following research sub-lines are developed in the lab. Click on any of them to learn more.
