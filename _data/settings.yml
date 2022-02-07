@@ -1,5 +1,5 @@
 menu:
-- {name: 'Courses', url: '/courses'}
+- {name: 'Research', url: '/research'}
 - {name: 'People', url: '/people'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Opportunities', url: '/opportunities'}
@@ -16,7 +16,7 @@ people:
 - {name: 'Corinna Schwarz', title: 'PhD Student', role: '', email: 'schwarz@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'corinna'}
 
 
-courses:
+research:
 - {name: 'Metabolism', url: 'metabolism'}
 - {name: 'Sporulation', url: 'sporulation'}
 - {name: 'Growth', url: 'growth'}
