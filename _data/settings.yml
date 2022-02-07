@@ -15,6 +15,13 @@ people:
 - {name: 'Octavio Reyes Matte', title: 'Intern', role: '', email: 'reyesmatte@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'octavio'}
 - {name: 'Corinna Schwarz', title: 'PhD Student', role: '', email: 'schwarz@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'corinna'}
 
+
+courses:
+- {name: 'Metabolism', url: 'vector-calculus'}
+- {name: 'Sporulation', url: 'quantum-mechanics'}
+- {name: 'Growth', url: 'stellar-structures'}
+
+
 social:
 - {icon: 'world', link: 'https://www.evolbio.mpg.de/3360782/evolcellbiol'}
 - {icon: 'github', link: 'https://github.com/lopezgarridolab'}
