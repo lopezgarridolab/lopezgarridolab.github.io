@@ -5,7 +5,7 @@ title: "Octavio Reyes Matte - Intern"
 
 The
 
-Biophysics of growth and competition 
+Biological physics of growth and competition 
 
 Email: reyesmatte@evolbio.mpg.de
 
