@@ -8,12 +8,12 @@ menu:
 people:
 - {name: 'Javier López Garrido', title: 'Principal Investigator', role: 'The Bacillus grandmaster', research: 'Evolutionary Cell Biology of Bacillus Subtilis', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/primary-investigator.jpg', url: 'javi'}
 - {name: 'Alan Derman', title: 'Senior Scientist', role: 'The know-it-all', email: 'derman@evolbio.mpg.de', research: '', image: 'assets/img/lab-technician.jpg', url: 'alan'}
-- {name: 'Nadja Hüttman', title: 'Lab Technician', role: 'The problem solver', email: 'huettman@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'nadja'}
+- {name: 'Nadja Hüttman', title: 'Lab Technician', role: 'The problem solver', email: 'nhuettman@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'nadja'}
 - {name: 'Deniz Akbulut', title: 'Master´s Student', role: '', email: 'akbulut@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'deniz'}
 - {name: 'Alejandro Bonive Boscan', title: 'Intern', role: '', email: 'bonive@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'alejandro'}
 - {name: 'Iqra Kasu', title: 'PhD Student', role: '', email: 'kasu@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'iqra'}
 - {name: 'Octavio Reyes Matte', title: 'Intern', role: '', email: 'reyesmatte@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'octavio'}
-- {name: 'Corinna Schwarz', title: 'PhD Student', role: '', email: 'schwarz@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'corinna'}
+- {name: 'Corinna Schwarz', title: 'PhD Student', role: '', email: 'coschwarz@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'corinna'}
 
 
 research:
