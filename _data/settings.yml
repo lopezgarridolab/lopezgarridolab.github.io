@@ -14,6 +14,7 @@ people:
 - {name: 'Iqra Kasu', title: 'PhD Student', role: '', email: 'kasu@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'iqra'}
 - {name: 'Octavio Reyes Matte', title: 'Intern', role: '', email: 'reyesmatte@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'octavio'}
 - {name: 'Corinna Schwarz', title: 'PhD Student', role: '', email: 'coschwarz@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'corinna'}
+- {name: 'Felipe Sinhorini', title: 'Technician', role: '', email: 'sinhorini@evolbio.mpg.de', research: '', image: 'assets/img/graduate-student.jpg', url: 'felipe'}
 
 
 research:
