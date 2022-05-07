@@ -11,4 +11,4 @@ Email: reyesmatte@evolbio.mpg.de
 
 ---
 
-Hailing from biophysics, Octavio is interested in both theoretical and experimental approaches to study _Bacillus subtilis_ growth and competition
+Hailing from biophysics, Octavio is interested in both theoretical and experimental approaches to study _Bacillus subtilis_ growth and competition dynamics
