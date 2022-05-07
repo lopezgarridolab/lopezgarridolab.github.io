@@ -5,7 +5,7 @@ title: "Corinna Schwarz - PhD Student"
 
 The 
 
-Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
+Evolutionary approaches to Sporulation 
 
 Email: coschwarz@evolbio.mpg.de
 
