@@ -5,7 +5,7 @@ title: "Iqra Kasu - PhD Student"
 
 The 
 
-Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
+Metabolism governing spore revival
 
 Email: kasu@evolbio.mpg.de
 
