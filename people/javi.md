@@ -11,4 +11,4 @@ Email: lopezgarrido@evolbio.mpg.de
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+The head of the lab, Javi aims to mechanistically explore the different genetic and metabolic cues that ensure homeostasis in _B. subtilis_ in vegetative and sporulating cells
