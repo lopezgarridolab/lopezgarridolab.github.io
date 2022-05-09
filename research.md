@@ -13,6 +13,6 @@ Endospore formation (aka sporulation) is a developmental process that culminates
 
 In our lab, we take pleasure in combining lines of reasoning inspired by classical bacterial genetics with cutting-edge cell biological tools to obtain mechanistic details about how sporulation cellular dynamics functions and evolves. We aim to understand not only how cells are, but also how they became the way they are. Below is an artistic representation of sporulating bacteria by [Valentina Brostean](https://www.valentinabrostean.com/).
 
-![spore_rep](https://github.com/lopezgarridolab/lopezgarridolab.github.io/blob/gh-pages/assets/img/spore_rep.webp)
+![spore_rep](https://github.com/lopezgarridolab/lopezgarridolab.github.io/blob/gh-pages/assets/img/spore_rep.png)
 
 Plus, the following research sub-lines are developed in the lab. Click on any of them to learn more.
