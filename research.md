@@ -11,7 +11,7 @@ Endospore formation (aka sporulation) is a developmental process that culminates
 2. Endospore formers are typically unicellular and sporulation involves the participation of a small number of cells (only two cells in many cases), so changes in cellular architecture are expected to have readily observed effects at the organismal level. 
 3. Although the evolutionary origin of sporulation is monophyletic, the process has diversified throughout evolution, providing the substrate to perform comparative genomic and cytological studies and to address key questions such as the adaptive value of specific cytological changes.
 
-In our lab, we take pleasure in combining lines of reasoning inspired by classical bacterial genetics with cutting-edge cell biological tools to obtain mechanistic details about how sporulation cellular dynamics functions and evolves. We aim to understand not only how cells are, but also how they became the way they are. Below is 
+In our lab, we take pleasure in combining lines of reasoning inspired by classical bacterial genetics with cutting-edge cell biological tools to obtain mechanistic details about how sporulation cellular dynamics functions and evolves. We aim to understand not only how cells are, but also how they became the way they are. Below is an artistic representation of sporulating bacteria by [Valentina Brostean](https://www.valentinabrostean.com/).
 
 <img src="https://github.com/lopezgarridolab/lopezgarridolab.github.io/blob/gh-pages/assets/img/spore_rep.png" width="40%">
 
