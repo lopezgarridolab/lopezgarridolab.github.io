@@ -5,10 +5,10 @@ title: "Nadja Hüttman - Technician"
 
 The problem solver
 
-Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
+Genetic regulation of _Bacillus subtilis_
 
 Email: nhuettman@evolbio.mpg.de
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+Nadja is responsible for the general laboratory organization and helps where help is needed. She is exploring the roles of essential and non-essential genes in _B. subtilis_.
