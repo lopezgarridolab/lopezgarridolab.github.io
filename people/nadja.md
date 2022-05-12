@@ -5,7 +5,7 @@ title: "Nadja Hüttman - Technician"
 
 The problem solver
 
-Genetic regulation of _Bacillus subtilis_
+Genetic and physiological regulation in _Bacillus subtilis_
 
 Email: nhuettman@evolbio.mpg.de
 
