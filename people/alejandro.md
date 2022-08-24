@@ -5,10 +5,10 @@ title: "Alejandro Bonive Boscan - Intern"
 
 The 
 
-Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
+Protein co-option in _Bacillus subtilis_
 
 Email: bonive@evolbio.mpg.de
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+A microscopy and wetlab enthusiast, Alejandro explores the role of protein co-options in different physiological processes and stages in _Bacillus subtilis_.
