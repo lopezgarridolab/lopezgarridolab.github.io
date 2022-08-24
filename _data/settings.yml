@@ -10,11 +10,11 @@ people:
 - {name: 'Alan Derman', title: 'Senior Scientist', role: 'The know-it-all', email: 'derman@evolbio.mpg.de', research: 'Evolutionary Cell Biology of Bacillus Subtilis', image: 'assets/img/lab-technician.jpg', url: 'alan'}
 - {name: 'Nadja Hüttman', title: 'Lab Technician', role: 'The problem solver', email: 'nhuettman@evolbio.mpg.de', research: 'Genetic and physiological regulation in Bacillus Subtilis', image: 'assets/img/graduate-student.jpg', url: 'nadja'}
 - {name: 'Deniz Akbulut', title: 'Research assistant', role: '', email: 'akbulut@evolbio.mpg.de', research: 'Metabolism of Bacillus subtilis', image: 'assets/img/graduate-student.jpg', url: 'deniz'}
-- {name: 'Alejandro Bonive Boscan', title: 'Intern', role: '', email: 'bonive@evolbio.mpg.de', research: 'Evolutionary Cell Biology of Bacillus Subtilis', image: 'assets/img/graduate-student.jpg', url: 'alejandro'}
+- {name: 'Alejandro Bonive Boscan', title: 'PhD Student', role: '', email: 'bonive@evolbio.mpg.de', research: 'Protein co-option in Bacillus subtilis', image: 'assets/img/graduate-student.jpg', url: 'alejandro'}
 - {name: 'Iqra Kasu', title: 'PhD Student', role: '', email: 'kasu@evolbio.mpg.de', research: 'Metabolism governing spore revival', image: 'assets/img/graduate-student.jpg', url: 'iqra'}
-- {name: 'Octavio Reyes Matte', title: 'Intern', role: '', email: 'reyesmatte@evolbio.mpg.de', research: 'Evolutionary Cell Biohysics', image: 'assets/img/graduate-student.jpg', url: 'octavio'}
+- {name: 'Octavio Reyes Matte', title: 'PhD Student', role: '', email: 'reyesmatte@evolbio.mpg.de', research: 'Evolutionary Cell Biohysics', image: 'assets/img/graduate-student.jpg', url: 'octavio'}
 - {name: 'Corinna Schwarz', title: 'PhD Student', role: '', email: 'coschwarz@evolbio.mpg.de', research: 'Evolutionary approaches to Sporulation', image: 'assets/img/graduate-student.jpg', url: 'corinna'}
-- {name: 'Felipe Sinhorini', title: 'Technician', role: '', email: 'sinhorini@evolbio.mpg.de', research: 'Evolutionary Cell Biology of Bacillus Subtilis', image: 'assets/img/graduate-student.jpg', url: 'felipe'}
+- {name: 'Felipe Sinhorini', title: 'Lab Technician', role: '', email: 'sinhorini@evolbio.mpg.de', research: 'General lab maintenance and functionality', image: 'assets/img/graduate-student.jpg', url: 'felipe'}
 
 research:
 - {name: 'Metabolism', url: 'metabolism'}
