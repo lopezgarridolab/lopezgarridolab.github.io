@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Octavio Reyes Matte - Intern"
+title: "Octavio Reyes Matte - PhD Student"
 ---
 
 The
