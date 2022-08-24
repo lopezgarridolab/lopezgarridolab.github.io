@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Alejandro Bonive Boscan - Intern"
+title: "Alejandro Bonive Boscan - PhD Student"
 ---
 
 The 
