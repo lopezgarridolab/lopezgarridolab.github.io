@@ -5,7 +5,7 @@ title: "Felipe Sinhorini - Technician"
 
 The
 
-Evolutionary Cell Biology and Sporulation of _Bacillus subtilis_
+General lab maintenance and functionality
 
 Email: sinhorini@evolbio.mpg.de
 
