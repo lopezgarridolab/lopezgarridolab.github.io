@@ -9,7 +9,7 @@ people:
 - {name: 'Javier López Garrido', title: 'Principal Investigator', role: 'The Grandmaster', research: 'Evolutionary Cell Biology of Bacillus Subtilis', email: 'lopezgarrido@evolbio.mpg.de', image: 'assets/img/Javi.jpg', url: 'javi'}
 - {name: 'Alan Derman', title: 'Senior Scientist', role: 'The Knower', email: 'derman@evolbio.mpg.de', research: 'Evolutionary Cell Biology of Bacillus Subtilis', image: 'assets/img/Alan.jpg', url: 'alan'}
 - {name: 'Nadja Hüttman', title: 'Lab Technician', role: 'The Solver', email: 'nhuettman@evolbio.mpg.de', research: 'Genetic and physiological regulation in Bacillus Subtilis', image: 'assets/img/Nadja.jpg', url: 'nadja'}
-- {name: 'Deniz Akbulut', title: 'Research assistant', role: 'The Characterizer', email: 'akbulut@evolbio.mpg.de', research: 'Metabolism of Bacillus subtilis', image: 'assets/img/Deniz.jpg', url: 'deniz'}
+- {name: 'Deniz Akbulut', title: 'Research assistant', role: 'The Profiler', email: 'akbulut@evolbio.mpg.de', research: 'Metabolism of Bacillus subtilis', image: 'assets/img/Deniz.jpg', url: 'deniz'}
 - {name: 'Alejandro Bonive Boscan', title: 'Doctoral Researcher', role: 'The Synthetizer', email: 'bonive@evolbio.mpg.de', research: 'Protein co-option in Bacillus subtilis', image: 'assets/img/Alejandro.jpg', url: 'alejandro'}
 - {name: 'Iqra Kasu', title: 'Doctoral Researcher', role: 'The Metabolizer', email: 'kasu@evolbio.mpg.de', research: 'Metabolism governing spore revival', image: 'assets/img/Iqra.jpg', url: 'iqra'}
 - {name: 'Octavio Reyes Matte', title: 'Doctoral Researcher', role: 'The Programmer', email: 'reyesmatte@evolbio.mpg.de', research: 'Evolutionary Cell Biohysics', image: 'assets/img/Octavio.jpg', url: 'octavio'}
