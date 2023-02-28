@@ -16,12 +16,6 @@ people:
 - {name: 'Corinna Schwarz', title: 'Doctoral Researcher', role: 'The Evolver', email: 'coschwarz@evolbio.mpg.de', research: 'Evolutionary approaches to Sporulation', image: 'assets/img/Corinna.jpg', url: 'corinna'}
 - {name: 'Felipe Sinhorini', title: 'Lab Technician', role: 'The Maintainer', email: 'sinhorini@evolbio.mpg.de', research: 'General lab maintenance and functionality', image: 'assets/img/Felipe.jpg', url: 'felipe'}
 
-research:
-- {name: 'Metabolism', url: 'metabolism'}
-- {name: 'Evolution', url: 'evolution'}
-- {name: 'Cell shape', url: 'cellshape'}
-
-
 social:
 - {icon: 'world', link: 'https://www.evolbio.mpg.de/3360782/evolcellbiol'}
 - {icon: 'github', link: 'https://github.com/lopezgarridolab'}
